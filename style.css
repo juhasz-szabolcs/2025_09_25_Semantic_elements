@@ -2,7 +2,7 @@ body {
     font-family: 'Courier New', Courier, monospace;
     margin: 0;
     padding: 0;
-    background-color: aliceblue;
+    background-color: rgb(191, 197, 202);
     line-height: 1.6;
 }
 
@@ -67,4 +67,15 @@ figure img {
 
 header {
     background-color: rgb(84, 155, 13);
+}
+
+article {
+    background: white;
+    margin-bottom: 20px;
+
+}
+
+.video {
+    aspect-ratio: 16/9;
+    width: 70%;
 }
